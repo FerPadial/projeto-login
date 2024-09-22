@@ -55,7 +55,8 @@ Telas grandes acima de 1200px
 
     }
 
-    div#formulario {
-        font-size: 1.2em;
+    div#formulario > p {
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
